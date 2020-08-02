@@ -1,5 +1,5 @@
 install.packages("tidyverse")
 install.packages("rmarkdown")
-install.packages("httr")
+# removing package 'httr' to check it it's required
 install.packages("shinydashboard")
 install.packages('leaflet')
